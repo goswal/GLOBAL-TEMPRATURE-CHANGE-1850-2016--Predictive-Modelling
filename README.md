@@ -1,0 +1,2 @@
+# GLOBAL-TEMPRATURE-CHANGE-1850-2016--Predictive-Modelling
+In this I explored a large dataset of global climate change causes by consolidating our dataset from the redesign project i.e. HadCRUT4: a dataset of Global historical surface temperature anomalies with another dataset from NASA for the climate forcing which includes both natural and industrial factors (since 1880 to 2014) such as Human, Natural, Anthropogenic tropospheric aerosol, Greenhouse gases, Land use, Orbital changes, Ozone, Solar, Volcanic, contribute to global warming
